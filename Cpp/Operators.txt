@@ -1,0 +1,13 @@
+#include <cmath> for pow() function.
+
+double x = std::pow(3, 2); //3 to the power of 2. 
+
+//ARITHMETIC ASSIGNMENT OPERATORS
+"=" - Assignment.
+"+=" - Addition.
+"-=" - Subtraction.
+"*=" - Multiplication.
+"/=" - Division. 
+"%=" - Modulus -  gives the remainder.
+
+Eg - x+=5 means x = x + 5.
